@@ -20,6 +20,10 @@ And couldn't figure out how it was talking to the Leonardo board.
 
 That is about it. If you know anything else or have a sketch that will work with it, let me know.  
 
+## Libraries
+
+Because the Arduino IDE has been getting pretty bad handling libraries, I've included the libraries used in the src directory of the sketch. These libraries may have been slightly modified to work from the sketch directory, and do not include the examples.  
+
 ## Contributing
 
 1. Fork it!
